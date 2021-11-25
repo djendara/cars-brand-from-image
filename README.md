@@ -1,6 +1,6 @@
 ## Description
 
-using cars images, we gonna try to predict the respective brand, with Tensorflow for a Kaggle problem.
+using cars images, we gonna try to predict the respective brand, with Tensorflow and applying data augmentaion for a Kaggle problem.
 
 
 ## Ressources
